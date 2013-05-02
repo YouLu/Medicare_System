@@ -1,0 +1,279 @@
+2009-04-24 15:17:36,546 [4] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-24 15:17:36,671 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-24 15:17:36,828 [4] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-24 15:17:36,859 [4] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-24 15:17:36,859 [4] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-24 15:17:36,859 [4] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-24 15:17:37,046 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.SampleEntity, Entity" table="user_if_t">
+    <id name="Guid" access="property" column="guid" type="Int32" unsaved-value="0">
+      <generator class="identity">
+      </generator>
+    </id>
+    <property name="Id" access="property" type="String">
+      <column name="user_id"/>
+    </property>
+    <property name="Name" access="property" type="String">
+      <column name="user_nm"/>
+    </property>
+    <property name="Password" access="property" type="String">
+      <column name="password"/>
+    </property>
+    <property name="Shihaidv" access="property" type="String">
+      <column name="shihai_dv"/>
+    </property>
+    <property name="Tourokusya" access="property" type="String">
+      <column name="tourokusya"/>
+    </property>
+    <property name="Koushinsya" access="property" type="String">
+      <column name="koushinsya"/>
+    </property>
+    <property name="Tourokudate" access="property" type="System.DateTime">
+      <column name="touroku_date"/>
+    </property>
+    <property name="Koushindate" access="property" type="System.DateTime">
+      <column name="koushin_date"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-04-24 15:17:37,218 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-04-24 15:17:37,265 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.SampleEntity -> user_if_t
+2009-04-24 15:17:37,359 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Guid -> guid, type: Int32
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Id -> user_id, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Name -> user_nm, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Password -> password, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Shihaidv -> shihai_dv, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokusya -> tourokusya, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushinsya -> koushinsya, type: String
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokudate -> touroku_date, type: DateTime
+2009-04-24 15:17:37,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushindate -> koushin_date, type: DateTime
+2009-04-24 15:17:37,390 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-24 15:17:37,406 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - start init IssStruts
+2009-04-24 15:17:37,562 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts success
+2009-04-24 15:17:37,578 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-24 15:17:37,593 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-24 15:17:37,609 [4] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-24 15:19:07,593 [4] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-24 15:19:07,609 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-04-24 15:19:07,609 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-04-24 15:19:07,609 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-04-24 15:19:07,609 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-04-24 15:19:07,718 [4] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-24 15:19:10,750 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-04-24 15:19:10,812 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-04-24 15:19:10,812 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-04-24 15:19:10,812 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-04-24 15:19:17,343 [4] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-24 15:19:17,343 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-04-24 15:19:17,343 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-04-24 15:19:17,343 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-04-24 15:19:17,343 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-04-24 15:19:17,359 [4] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-24 15:19:18,328 [4] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-24 15:19:19,125 [4] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-24 15:19:19,265 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-04-24 15:19:19,265 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-04-24 15:19:19,265 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-04-24 15:19:19,265 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-04-24 15:19:26,765 [9] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-24 15:19:26,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-04-24 15:19:26,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-04-24 15:19:26,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-04-24 15:19:26,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-04-24 15:19:27,421 [9] INFO  NHibernate.Cfg.Configuration [(null)] - processing one-to-many association mappings
+2009-04-24 15:19:27,421 [9] INFO  NHibernate.Cfg.Configuration [(null)] - processing one-to-one association property references
+2009-04-24 15:19:27,421 [9] INFO  NHibernate.Cfg.Configuration [(null)] - processing foreign key constraints
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Connection.ConnectionProvider [(null)] - Configuring ConnectionProvider
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Cfg.SettingsFactory [(null)] - Optimize cache for minimal puts: False
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Cfg.SettingsFactory [(null)] - Connection release mode: auto
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Cfg.SettingsFactory [(null)] - Query translator: NHibernate.Hql.Classic.ClassicQueryTranslatorFactory
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Cfg.SettingsFactory [(null)] - Query language substitutions: {}
+2009-04-24 15:19:27,437 [9] INFO  NHibernate.Cfg.SettingsFactory [(null)] - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=1.2.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2009-04-24 15:19:27,453 [9] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] - building session factory
+2009-04-24 15:19:27,453 [9] DEBUG NHibernate.Impl.SessionFactoryImpl [(null)] - instantiating session factory with properties: {hibernate.connection.driver_class=NHibernate.Driver.SqlClientDriver, hibernate.dialect=NHibernate.Dialect.MsSql2005Dialect, hibernate.connection.connection_string=Data Source=ISS-LVYOU\LVYOU;Initial Catalog=bond2;Integrated Security=True, hibernate.use_reflection_optimizer=true, hibernate.connection.provider=NHibernate.Connection.DriverConnectionProvider}
+2009-04-24 15:19:27,625 [9] DEBUG NHibernate.Impl.SessionFactoryObjectFactory [(null)] - initializing class SessionFactoryObjectFactory
+2009-04-24 15:19:27,625 [9] DEBUG NHibernate.Impl.SessionFactoryObjectFactory [(null)] - registered: 7cb7972a46c54083aaa3e7b68aa47ded(unnamed)
+2009-04-24 15:19:27,625 [9] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] - no name configured
+2009-04-24 15:19:27,718 [9] DEBUG NHibernate.Loader.Entity.AbstractEntityLoader [(null)] - Static select for entity Entity.SampleEntity: SELECT sampleenti0_.guid as guid0_0_, sampleenti0_.user_id as user2_0_0_, sampleenti0_.user_nm as user3_0_0_, sampleenti0_.password as password0_0_, sampleenti0_.shihai_dv as shihai5_0_0_, sampleenti0_.tourokusya as tourokusya0_0_, sampleenti0_.koushinsya as koushinsya0_0_, sampleenti0_.touroku_date as touroku8_0_0_, sampleenti0_.koushin_date as koushin9_0_0_ FROM user_if_t sampleenti0_ WHERE sampleenti0_.guid=?
+2009-04-24 15:19:27,718 [9] DEBUG NHibernate.Loader.Entity.AbstractEntityLoader [(null)] - Static select for entity Entity.SampleEntity: SELECT sampleenti0_.guid as guid0_0_, sampleenti0_.user_id as user2_0_0_, sampleenti0_.user_nm as user3_0_0_, sampleenti0_.password as password0_0_, sampleenti0_.shihai_dv as shihai5_0_0_, sampleenti0_.tourokusya as tourokusya0_0_, sampleenti0_.koushinsya as koushinsya0_0_, sampleenti0_.touroku_date as touroku8_0_0_, sampleenti0_.koushin_date as koushin9_0_0_ FROM user_if_t sampleenti0_ WHERE sampleenti0_.guid=?
+2009-04-24 15:19:27,718 [9] DEBUG NHibernate.Loader.Entity.AbstractEntityLoader [(null)] - Static select for entity Entity.SampleEntity: SELECT sampleenti0_.guid as guid0_0_, sampleenti0_.user_id as user2_0_0_, sampleenti0_.user_nm as user3_0_0_, sampleenti0_.password as password0_0_, sampleenti0_.shihai_dv as shihai5_0_0_, sampleenti0_.tourokusya as tourokusya0_0_, sampleenti0_.koushinsya as koushinsya0_0_, sampleenti0_.touroku_date as touroku8_0_0_, sampleenti0_.koushin_date as koushin9_0_0_ FROM user_if_t sampleenti0_ with (updlock, rowlock) WHERE sampleenti0_.guid=?
+2009-04-24 15:19:27,718 [9] DEBUG NHibernate.Loader.Entity.AbstractEntityLoader [(null)] - Static select for entity Entity.SampleEntity: SELECT sampleenti0_.guid as guid0_0_, sampleenti0_.user_id as user2_0_0_, sampleenti0_.user_nm as user3_0_0_, sampleenti0_.password as password0_0_, sampleenti0_.shihai_dv as shihai5_0_0_, sampleenti0_.tourokusya as tourokusya0_0_, sampleenti0_.koushinsya as koushinsya0_0_, sampleenti0_.touroku_date as touroku8_0_0_, sampleenti0_.koushin_date as koushin9_0_0_ FROM user_if_t sampleenti0_ with (updlock, rowlock) WHERE sampleenti0_.guid=?
+2009-04-24 15:19:27,734 [9] DEBUG NHibernate.Impl.SessionFactoryImpl [(null)] - Instantiated session factory
+2009-04-24 15:19:27,750 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - opened session
+2009-04-24 15:19:27,781 [9] DEBUG NHibernate.Transaction.AdoTransaction [(null)] - begin
+2009-04-24 15:19:27,781 [9] DEBUG NHibernate.Connection.DriverConnectionProvider [(null)] - Obtaining IDbConnection from Driver
+2009-04-24 15:19:28,000 [9] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Opened new IDbCommand, open IDbCommands: 1
+2009-04-24 15:19:28,000 [9] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Building an IDbCommand object for the SqlString: SELECT this_.guid as guid0_0_, this_.user_id as user2_0_0_, this_.user_nm as user3_0_0_, this_.password as password0_0_, this_.shihai_dv as shihai5_0_0_, this_.tourokusya as tourokusya0_0_, this_.koushinsya as koushinsya0_0_, this_.touroku_date as touroku8_0_0_, this_.koushin_date as koushin9_0_0_ FROM user_if_t this_
+2009-04-24 15:19:28,015 [9] INFO  NHibernate.Loader.Loader [(null)] - SELECT this_.guid as guid0_0_, this_.user_id as user2_0_0_, this_.user_nm as user3_0_0_, this_.password as password0_0_, this_.shihai_dv as shihai5_0_0_, this_.tourokusya as tourokusya0_0_, this_.koushinsya as koushinsya0_0_, this_.touroku_date as touroku8_0_0_, this_.koushin_date as koushin9_0_0_ FROM user_if_t this_
+2009-04-24 15:19:28,015 [9] DEBUG NHibernate.SQL [(null)] - SELECT this_.guid as guid0_0_, this_.user_id as user2_0_0_, this_.user_nm as user3_0_0_, this_.password as password0_0_, this_.shihai_dv as shihai5_0_0_, this_.tourokusya as tourokusya0_0_, this_.koushinsya as koushinsya0_0_, this_.touroku_date as touroku8_0_0_, this_.koushin_date as koushin9_0_0_ FROM user_if_t this_
+2009-04-24 15:19:28,218 [9] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Opened IDataReader, open IDataReaders: 1
+2009-04-24 15:19:28,234 [9] DEBUG NHibernate.Loader.Loader [(null)] - processing result set
+2009-04-24 15:19:28,234 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 0
+2009-04-24 15:19:28,234 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '86' as column: guid0_0_
+2009-04-24 15:19:28,234 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 86
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#86]
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#86
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,250 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 1
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '87' as column: guid0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 87
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#87]
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#87
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 2
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '88' as column: guid0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 88
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#88]
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#88
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 3
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '89' as column: guid0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 89
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#89]
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#89
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 4
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '90' as column: guid0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 90
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#90]
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#90
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 5
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.Int32Type [(null)] - returning '91' as column: guid0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - result row: 91
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#91]
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#91
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user2_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user3_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai5_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku8_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin9_0_0_
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - done processing result set (6 rows)
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Driver.NHybridDataReader [(null)] - running NHybridDataReader.Dispose()
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Closed IDataReader, open IDataReaders :0
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Closed IDbCommand, open IDbCommands: 0
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Loader.Loader [(null)] - total objects hydrated: 6
+2009-04-24 15:19:28,265 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#86]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#86]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#87]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#87]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#88]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#88]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#89]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#89]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#90]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#90]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#91]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#91]
+2009-04-24 15:19:28,281 [9] DEBUG NHibernate.Impl.SessionImpl [(null)] - initializing non-lazy collections
+2009-04-24 15:19:28,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-04-24 15:19:28,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-04-24 15:19:28,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-04-24 15:19:28,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-04-24 15:19:33,328 [4] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-24 15:19:33,328 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-04-24 15:19:33,328 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-04-24 15:19:33,328 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-04-24 15:19:33,328 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-04-24 15:19:33,359 [4] DEBUG Medical.Framework.AOP.Impl.DbHelperImpl [(null)] - start changeSignCommandText
+2009-04-24 15:19:33,390 [4] DEBUG Medical.Framework.AOP.Impl.DbHelperImpl [(null)] - end changeSignCommandText
+2009-04-24 15:19:33,406 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - opened session
+2009-04-24 15:19:33,406 [4] DEBUG NHibernate.Transaction.AdoTransaction [(null)] - begin
+2009-04-24 15:19:33,406 [4] DEBUG NHibernate.Connection.DriverConnectionProvider [(null)] - Obtaining IDbConnection from Driver
+2009-04-24 15:19:33,453 [4] DEBUG NHibernate.Loader.Custom.SQLCustomQuery [(null)] - starting processing of sql query [select * from user_if_t where guid=:guid]
+2009-04-24 15:19:33,468 [4] DEBUG NHibernate.Loader.Custom.SQLQueryReturnProcessor [(null)] - mapping alias [SampleEntity] to entity-suffix [0_]
+2009-04-24 15:19:33,515 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Opened new IDbCommand, open IDbCommands: 1
+2009-04-24 15:19:33,515 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Building an IDbCommand object for the SqlString: select * from user_if_t where guid=?
+2009-04-24 15:19:33,515 [4] DEBUG NHibernate.Loader.Loader [(null)] - BindNamedParameters() 86 -> guid [0]
+2009-04-24 15:19:33,515 [4] DEBUG NHibernate.Type.Int32Type [(null)] - binding '86' to parameter: 0
+2009-04-24 15:19:33,515 [4] INFO  NHibernate.Loader.Loader [(null)] - select * from user_if_t where guid=@p0
+2009-04-24 15:19:33,515 [4] DEBUG NHibernate.SQL [(null)] - select * from user_if_t where guid=@p0; @p0 = '86'
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Opened IDataReader, open IDataReaders: 1
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - processing result set
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - result set row: 0
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.Int32Type [(null)] - returning '86' as column: guid
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - result row: 86
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - Initializing object from DataReader: [Entity.SampleEntity#86]
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - Hydrating entity: Entity.SampleEntity#86
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning 'xcs' as column: user_id
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning 'yiye' as column: user_nm
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning '123' as column: password
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning '0' as column: shihai_dv
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: tourokusya
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.StringType [(null)] - returning null as column: koushinsya
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: touroku_date
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Type.DateTimeType [(null)] - returning '4/17/2009' as column: koushin_date
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - done processing result set (1 rows)
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Driver.NHybridDataReader [(null)] - running NHybridDataReader.Dispose()
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Closed IDataReader, open IDataReaders :0
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - Closed IDbCommand, open IDbCommands: 0
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Loader.Loader [(null)] - total objects hydrated: 1
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - resolving associations for: [Entity.SampleEntity#86]
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - done materializing entity [Entity.SampleEntity#86]
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - initializing non-lazy collections
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - closing session
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - running BatcherImpl.Dispose(true)
+2009-04-24 15:19:33,625 [4] DEBUG NHibernate.Transaction.AdoTransaction [(null)] - running AdoTransaction.Dispose()
+2009-04-24 15:19:33,640 [4] DEBUG NHibernate.Impl.ConnectionManager [(null)] - aggressively releasing database connection
+2009-04-24 15:19:33,640 [4] DEBUG NHibernate.Connection.ConnectionProvider [(null)] - Closing connection
+2009-04-24 15:19:33,671 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - transaction completion
+2009-04-24 15:19:33,671 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - running ISession.Dispose()
+2009-04-24 15:19:33,671 [4] DEBUG NHibernate.Impl.SessionImpl [(null)] - closing session
+2009-04-24 15:19:33,671 [4] DEBUG NHibernate.Impl.BatcherImpl [(null)] - running BatcherImpl.Dispose(true)
+2009-04-24 15:19:33,671 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-04-24 15:19:33,671 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-04-24 15:19:33,671 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-04-24 15:19:33,671 [4] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-04-24 15:19:39,562 [9] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-24 15:19:39,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-04-24 15:19:39,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-04-24 15:19:39,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-04-24 15:19:39,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-04-24 15:19:39,562 [9] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-24 15:19:39,578 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-04-24 15:19:39,593 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-04-24 15:19:39,593 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-04-24 15:19:39,593 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success

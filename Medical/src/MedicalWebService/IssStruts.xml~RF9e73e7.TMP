@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<IssStrutsConfig>
+  <!--  配置action的例子   -->
+  <Action name="MessageAction">
+    <mapping classKey="LoginAppLogic" method="GetMessageMap"/>
+  </Action>
+  <Action name="LoginAction">
+    <mapping classKey="LoginAppLogic" method="Login"/>
+  </Action>
+  <Action name="GetAllAction">
+    <mapping classKey="SampleAppLogic" method="GetAll"/>
+  </Action>
+  <Action name="GetOneAction">
+    <mapping classKey="SampleAppLogic" method="GetUserByGuid"/>
+  </Action>
+  <Action name="ShowRollBackAction">
+    <mapping classKey="SampleAppLogic" method="ShowRollBack"/>
+  </Action>
+  <Action name ="GetAllName">
+    <mapping classKey="SampleAppLogic" method ="GetAllName"/>
+  </Action>
+  <Action name="CodeNameAction">
+    <mapping classKey="LoginAppLogic" method="GetCodeNameMap"/>
+  </Action>
+  <Action name="GetReserveInfo">
+    <mapping classKey="SelfBloodAppLogic" method="GetReserveInfo"/>
+  </Action>
+  <Action name="DeleteOrder">
+    <mapping classKey="SelfBloodAppLogic" method="DeleteOrder"/>
+  </Action>
+</IssStrutsConfig>

@@ -1,0 +1,197 @@
+2009-05-08 10:21:49,234 [1] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-05-08 10:21:49,328 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-05-08 10:21:49,515 [1] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-05-08 10:21:49,531 [1] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-05-08 10:21:49,531 [1] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-05-08 10:21:49,531 [1] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-05-08 10:21:49,656 [1] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.SampleEntity, Entity" table="user_if_t">
+    <id name="Guid" access="property" column="guid" type="Int32" unsaved-value="0">
+      <generator class="identity">
+      </generator>
+    </id>
+    <property name="Id" access="property" type="String">
+      <column name="user_id"/>
+    </property>
+    <property name="Name" access="property" type="String">
+      <column name="user_nm"/>
+    </property>
+    <property name="Password" access="property" type="String">
+      <column name="password"/>
+    </property>
+    <property name="Shihaidv" access="property" type="String">
+      <column name="shihai_dv"/>
+    </property>
+    <property name="Tourokusya" access="property" type="String">
+      <column name="tourokusya"/>
+    </property>
+    <property name="Koushinsya" access="property" type="String">
+      <column name="koushinsya"/>
+    </property>
+    <property name="Tourokudate" access="property" type="System.DateTime">
+      <column name="touroku_date"/>
+    </property>
+    <property name="Koushindate" access="property" type="System.DateTime">
+      <column name="koushin_date"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-08 10:21:49,906 [1] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-08 10:21:50,000 [1] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.SampleEntity -> user_if_t
+2009-05-08 10:21:50,125 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Guid -> guid, type: Int32
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Id -> user_id, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Name -> user_nm, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Password -> password, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Shihaidv -> shihai_dv, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokusya -> tourokusya, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushinsya -> koushinsya, type: String
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokudate -> touroku_date, type: DateTime
+2009-05-08 10:21:50,140 [1] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushindate -> koushin_date, type: DateTime
+2009-05-08 10:21:50,171 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-05-08 10:21:50,203 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - start init IssStruts
+2009-05-08 10:21:50,359 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts success
+2009-05-08 10:21:50,437 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:21:54,281 [1] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-05-08 10:22:03,093 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:22:16,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:22:16,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:22:16,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:22:16,125 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:22:16,171 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:16,593 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:22:16,609 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:22:16,609 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:22:16,609 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:22:22,984 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:22:23,000 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:22:23,000 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:22:23,000 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:22:23,000 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:22:23,000 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:23,625 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,156 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,250 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,562 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,609 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,656 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:24,734 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:22:25,343 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:22:25,343 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:22:25,468 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:22:33,828 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:22:33,828 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:22:33,828 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:22:33,828 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:22:33,828 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:22:33,828 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:34,515 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:35,031 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:22:35,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:22:35,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:22:35,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:22:35,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:36:59,171 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:36:59,187 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:36:59,187 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:36:59,187 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:36:59,203 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:36:59,203 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:36:59,203 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:36:59,203 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:36:59,203 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:36:59,203 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,265 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,312 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,312 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,453 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,468 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,468 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:36:59,468 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:36:59,781 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:36:59,781 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:36:59,906 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:11,640 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:11,640 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:11,671 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:11,671 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:11,671 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:11,671 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:11,703 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:11,750 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:11,765 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:11,781 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:11,781 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:11,781 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:22,687 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:22,687 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:22,687 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:22,687 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:22,687 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:22,687 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,703 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:22,718 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:22,718 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:22,718 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:22,750 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,750 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,765 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,765 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,828 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,843 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,843 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:22,843 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:23,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:23,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:23,312 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:26,109 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:26,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:26,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:26,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:26,109 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:26,109 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:26,125 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:26,156 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:26,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:26,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:26,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:26,171 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:56,265 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:56,265 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-05-08 10:37:56,312 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-05-08 10:37:56,312 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-05-08 10:37:56,312 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-05-08 10:37:56,312 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-05-08 10:37:56,312 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-05-08 10:37:56,312 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,328 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,328 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,328 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,390 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,390 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,390 [1] INFO  Medical.Framework.ADO.CodeAccess [(null)] - ---------------------db connection start------------------
+2009-05-08 10:37:56,390 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-05-08 10:37:56,718 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-05-08 10:37:56,718 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-05-08 10:37:56,859 [1] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success

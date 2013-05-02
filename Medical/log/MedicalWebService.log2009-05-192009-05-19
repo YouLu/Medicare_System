@@ -1,0 +1,509 @@
+2009-05-19 11:35:20,968 [4] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-05-19 11:35:32,328 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-05-19 11:37:08,328 [4] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-05-19 11:37:08,359 [4] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-05-19 11:37:08,359 [4] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-05-19 11:37:08,359 [4] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-05-19 11:37:08,703 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.SpecimenAttributeEntity, Entity" table="SpecimenAttribute">
+    <composite-id name="Key" class="Entity.SpecimenAttributeEntityKey, Entity" unsaved-value="none" access="property">
+      <key-property name="ReceptionID" access="property" column="ReceptionID" type="String" />
+      <key-property name="SpecimenID" access="property" column="SpecimenID" type="String" />
+    </composite-id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="AttributeID" access="property" type="String">
+      <column name="AttributeID"/>
+    </property>
+    <property name="AttributeName" access="property" type="String">
+      <column name="AttributeName"/>
+    </property>
+    <property name="AttributeValueD" access="property" type="System.DateTime, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="AttributeValueD"/>
+    </property>
+    <property name="AttributeValueI" access="property" type="Int32">
+      <column name="AttributeValueI"/>
+    </property>
+    <property name="AttributeValueR" access="property" type="System.Decimal">
+      <column name="AttributeValueR"/>
+    </property>
+    <property name="AttributeValueS" access="property" type="String">
+      <column name="AttributeValueS"/>
+    </property>
+    <property name="Type" access="property" type="String">
+      <column name="Type"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,078 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,171 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.SpecimenAttributeEntity -> SpecimenAttribute
+2009-05-19 11:37:09,281 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ReceptionID -> ReceptionID, type: String
+2009-05-19 11:37:09,281 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: SpecimenID -> SpecimenID, type: String
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Key -> ReceptionID, SpecimenID, type: SpecimenAttributeEntityKey
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeID -> AttributeID, type: String
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeName -> AttributeName, type: String
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeValueD -> AttributeValueD, type: DateTime
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeValueI -> AttributeValueI, type: Int32
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeValueR -> AttributeValueR, type: Decimal
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: AttributeValueS -> AttributeValueS, type: String
+2009-05-19 11:37:09,375 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Type -> Type, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.SampleEntity, Entity" table="user_if_t">
+    <id name="Guid" access="property" column="guid" type="Int32" unsaved-value="0">
+      <generator class="identity">
+      </generator>
+    </id>
+    <property name="Id" access="property" type="String">
+      <column name="user_id"/>
+    </property>
+    <property name="Name" access="property" type="String">
+      <column name="user_nm"/>
+    </property>
+    <property name="Password" access="property" type="String">
+      <column name="password"/>
+    </property>
+    <property name="Shihaidv" access="property" type="String">
+      <column name="shihai_dv"/>
+    </property>
+    <property name="Tourokusya" access="property" type="String">
+      <column name="tourokusya"/>
+    </property>
+    <property name="Koushinsya" access="property" type="String">
+      <column name="koushinsya"/>
+    </property>
+    <property name="Tourokudate" access="property" type="System.DateTime">
+      <column name="touroku_date"/>
+    </property>
+    <property name="Koushindate" access="property" type="System.DateTime">
+      <column name="koushin_date"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,468 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,468 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.SampleEntity -> user_if_t
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Guid -> guid, type: Int32
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Id -> user_id, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Name -> user_nm, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Password -> password, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Shihaidv -> shihai_dv, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokusya -> tourokusya, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushinsya -> koushinsya, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Tourokudate -> touroku_date, type: DateTime
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Koushindate -> koushin_date, type: DateTime
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstDiseaseEntity, Entity" table="MstDisease">
+    <id name="DiseaseCD" access="property" column="DiseaseCD" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DiseaseName" access="property" type="String">
+      <column name="DiseaseName"/>
+    </property>
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,468 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,468 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstDiseaseEntity -> MstDisease
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiseaseCD -> DiseaseCD, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiseaseName -> DiseaseName, type: String
+2009-05-19 11:37:09,468 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstContainerEntity, Entity" table="MstContainer">
+    <id name="ContainerCD" access="property" column="ContainerCD" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="ContainerName" access="property" type="String">
+      <column name="ContainerName"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstContainerEntity -> MstContainer
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ContainerCD -> ContainerCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ContainerName -> ContainerName, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstCodeClassEntity, Entity" table="MstCodeClass">
+    <id name="CodeClass" access="property" column="CodeClass" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="CodeClassName" access="property" type="String">
+      <column name="CodeClassName"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstCodeClassEntity -> MstCodeClass
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: CodeClass -> CodeClass, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: CodeClassName -> CodeClassName, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstOrderEntity, Entity" table="MstOrder">
+    <id name="ReceptionID" access="property" column="ReceptionID" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="BloodTypeABO" access="property" type="String">
+      <column name="BloodTypeABO"/>
+    </property>
+    <property name="BloodTypeRH" access="property" type="String">
+      <column name="BloodTypeRH"/>
+    </property>
+    <property name="Comment" access="property" type="String">
+      <column name="Comment"/>
+    </property>
+    <property name="DiagnosisDeptCD" access="property" type="String">
+      <column name="DiagnosisDeptCD"/>
+    </property>
+    <property name="DiseaseCD" access="property" type="String">
+      <column name="DiseaseCD"/>
+    </property>
+    <property name="DoctorCD" access="property" type="String">
+      <column name="DoctorCD"/>
+    </property>
+    <property name="Height" access="property" type="String">
+      <column name="Height"/>
+    </property>
+    <property name="PatientID" access="property" type="String">
+      <column name="PatientID"/>
+    </property>
+    <property name="ReceptionDate" access="property" type="String">
+      <column name="ReceptionDate"/>
+    </property>
+    <property name="ReceptionNo" access="property" type="String">
+      <column name="ReceptionNo"/>
+    </property>
+    <property name="WardCD" access="property" type="String">
+      <column name="WardCD"/>
+    </property>
+    <property name="Weight" access="property" type="String">
+      <column name="Weight"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstOrderEntity -> MstOrder
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ReceptionID -> ReceptionID, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: BloodTypeABO -> BloodTypeABO, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: BloodTypeRH -> BloodTypeRH, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Comment -> Comment, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptCD -> DiagnosisDeptCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiseaseCD -> DiseaseCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DoctorCD -> DoctorCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Height -> Height, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PatientID -> PatientID, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ReceptionDate -> ReceptionDate, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ReceptionNo -> ReceptionNo, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: WardCD -> WardCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Weight -> Weight, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.SpecimenEntity, Entity" table="Specimen">
+    <composite-id name="Key" class="Entity.SpecimenEntityKey, Entity" unsaved-value="none" access="property">
+      <key-property name="ReceptionID" access="property" column="ReceptionID" type="String" />
+      <key-property name="SpecimenID" access="property" column="SpecimenID" type="String" />
+    </composite-id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="Capacity" access="property" type="Int32">
+      <column name="Capacity"/>
+    </property>
+    <property name="Comment" access="property" type="String">
+      <column name="Comment"/>
+    </property>
+    <property name="ContainerCD" access="property" type="String">
+      <column name="ContainerCD"/>
+    </property>
+    <property name="CoctorCD" access="property" type="String">
+      <column name="DoctorCD"/>
+    </property>
+    <property name="CrugProductCD" access="property" type="String">
+      <column name="DrugProductCD"/>
+    </property>
+    <property name="HarvestDate" access="property" type="System.DateTime, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="HarvestDate"/>
+    </property>
+    <property name="HarvestLocation" access="property" type="String">
+      <column name="HarvestLocation"/>
+    </property>
+    <property name="HarvestNum" access="property" type="Int32">
+      <column name="HarvestNum"/>
+    </property>
+    <property name="HarvestScheduleDate" access="property" type="System.DateTime, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="HarvestScheduleDate"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.SpecimenEntity -> Specimen
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ReceptionID -> ReceptionID, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: SpecimenID -> SpecimenID, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Key -> ReceptionID, SpecimenID, type: SpecimenEntityKey
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Capacity -> Capacity, type: Int32
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Comment -> Comment, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: ContainerCD -> ContainerCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: CoctorCD -> DoctorCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: CrugProductCD -> DrugProductCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: HarvestDate -> HarvestDate, type: DateTime
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: HarvestLocation -> HarvestLocation, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: HarvestNum -> HarvestNum, type: Int32
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: HarvestScheduleDate -> HarvestScheduleDate, type: DateTime
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstDoctorEntity, Entity" table="MstDoctor">
+    <id name="DoctorCD" access="property" column="DoctorCD" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DiagnosisDeptCD" access="property" type="String">
+      <column name="DiagnosisDeptCD"/>
+    </property>
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+    <property name="DoctorName" access="property" type="String">
+      <column name="DoctorName"/>
+    </property>
+    <property name="MailAddress" access="property" type="String">
+      <column name="MailAddress"/>
+    </property>
+    <property name="PhoneNumber" access="property" type="String">
+      <column name="PhoneNumber"/>
+    </property>
+    <property name="Remarks" access="property" type="String">
+      <column name="Remarks"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstDoctorEntity -> MstDoctor
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DoctorCD -> DoctorCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptCD -> DiagnosisDeptCD, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DoctorName -> DoctorName, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: MailAddress -> MailAddress, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PhoneNumber -> PhoneNumber, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Remarks -> Remarks, type: String
+2009-05-19 11:37:09,484 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstWardEntity, Entity" table="MstWard">
+    <composite-id name="Key" class="Entity.MstWardEntityKey, Entity" unsaved-value="none" access="property">
+      <key-property name="DiagnosisDeptCD" access="property" column="DiagnosisDeptCD" type="String" />
+      <key-property name="WardCD" access="property" column="WardCD" type="String" />
+    </composite-id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+    <property name="Remarks" access="property" type="String">
+      <column name="Remarks"/>
+    </property>
+    <property name="WardName" access="property" type="String">
+      <column name="WardName"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,484 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstWardEntity -> MstWard
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptCD -> DiagnosisDeptCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: WardCD -> WardCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Key -> DiagnosisDeptCD, WardCD, type: MstWardEntityKey
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Remarks -> Remarks, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: WardName -> WardName, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstDrugProductEntity, Entity" table="MstDrugProduct">
+    <id name="DrugProductCD" access="property" column="DrugProductCD" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+    <property name="DrugProductAbbrName" access="property" type="String">
+      <column name="DrugProductAbbrName"/>
+    </property>
+    <property name="DrugProductName" access="property" type="String">
+      <column name="DrugProductName"/>
+    </property>
+    <property name="DrugProductTypeCD" access="property" type="String">
+      <column name="DrugProductTypeCD"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstDrugProductEntity -> MstDrugProduct
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DrugProductCD -> DrugProductCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DrugProductAbbrName -> DrugProductAbbrName, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DrugProductName -> DrugProductName, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DrugProductTypeCD -> DrugProductTypeCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstDiagnosisDeptEntity, Entity" table="MstDiagnosisDept">
+    <id name="DiagnosisDeptCD" access="property" column="DiagnosisDeptCD" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DiagnosisDeptName" access="property" type="String">
+      <column name="DiagnosisDeptName"/>
+    </property>
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+    <property name="Remarks" access="property" type="String">
+      <column name="Remarks"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstDiagnosisDeptEntity -> MstDiagnosisDept
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptCD -> DiagnosisDeptCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptName -> DiagnosisDeptName, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Remarks -> Remarks, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.PatientEntity, Entity" table="Patient">
+    <id name="PatientID" access="property" column="PatientID" type="String">
+      <generator class="assigned">
+      </generator>
+    </id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="Address" access="property" type="String">
+      <column name="Address"/>
+    </property>
+    <property name="BirthPlace" access="property" type="String">
+      <column name="BirthPlace"/>
+    </property>
+    <property name="BloodTypeABO" access="property" type="String">
+      <column name="BloodTypeABO"/>
+    </property>
+    <property name="BloodTypeRH" access="property" type="String">
+      <column name="BloodTypeRH"/>
+    </property>
+    <property name="DiagnosisDeptCD" access="property" type="String">
+      <column name="DiagnosisDeptCD"/>
+    </property>
+    <property name="Height" access="property" type="String">
+      <column name="Height"/>
+    </property>
+    <property name="PatientBirthDate" access="property" type="String">
+      <column name="PatientBirthDate"/>
+    </property>
+    <property name="PatientName" access="property" type="String">
+      <column name="PatientName"/>
+    </property>
+    <property name="PhoneNumber" access="property" type="String">
+      <column name="PhoneNumber"/>
+    </property>
+    <property name="PostCode" access="property" type="String">
+      <column name="PostCode"/>
+    </property>
+    <property name="Sex" access="property" type="String">
+      <column name="Sex"/>
+    </property>
+    <property name="WardCD" access="property" type="String">
+      <column name="WardCD"/>
+    </property>
+    <property name="Weight" access="property" type="String">
+      <column name="Weight"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.PatientEntity -> Patient
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PatientID -> PatientID, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Address -> Address, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: BirthPlace -> BirthPlace, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: BloodTypeABO -> BloodTypeABO, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: BloodTypeRH -> BloodTypeRH, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DiagnosisDeptCD -> DiagnosisDeptCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Height -> Height, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PatientBirthDate -> PatientBirthDate, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PatientName -> PatientName, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PhoneNumber -> PhoneNumber, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: PostCode -> PostCode, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Sex -> Sex, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: WardCD -> WardCD, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Weight -> Weight, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.Configuration [(null)] - Mapping XML:
+<?xml version="1.0" encoding="utf-16"?>
+<hibernate-mapping  auto-import="true" default-lazy="false" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Entity.MstCodeEntity, Entity" table="MstCode">
+    <composite-id name="Key" class="Entity.MstCodeEntityKey, Entity" unsaved-value="none" access="property">
+      <key-property name="Code" access="property" column="Code" type="String" />
+      <key-property name="CodeClass" access="property" column="CodeClass" type="String" />
+    </composite-id>
+    <version name="UpdateTime" access="property" column="UpdateTime" type="timestamp" />
+    <property name="DispOrder" access="property" type="Int32">
+      <column name="DispOrder"/>
+    </property>
+    <property name="Name" access="property" type="String">
+      <column name="Name"/>
+    </property>
+  </class>
+</hibernate-mapping>
+
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Dialect.Dialect [(null)] - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2009-05-19 11:37:09,500 [4] INFO  NHibernate.Cfg.HbmBinder [(null)] - Mapping class: Entity.MstCodeEntity -> MstCode
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Code -> Code, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: CodeClass -> CodeClass, type: String
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Key -> Code, CodeClass, type: MstCodeEntityKey
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: UpdateTime -> UpdateTime, type: Timestamp
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: DispOrder -> DispOrder, type: Int32
+2009-05-19 11:37:09,500 [4] DEBUG NHibernate.Cfg.HbmBinder [(null)] - Mapped property: Name -> Name, type: String
+2009-05-19 11:37:13,156 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-05-19 11:37:15,781 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - start init IssStruts
+2009-05-19 11:37:16,062 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts success
+2009-05-19 11:37:16,546 [4] INFO  Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-05-19 11:37:25,328 [4] DEBUG MedicalWebService.Global [(null)] - WebService start success

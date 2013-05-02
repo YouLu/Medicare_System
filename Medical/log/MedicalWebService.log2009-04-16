@@ -1,0 +1,144 @@
+2009-04-16 14:53:05,468 [1] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 14:53:05,500 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 14:53:05,546 [1] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 14:53:05,562 [1] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 14:53:05,562 [1] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 14:53:05,562 [1] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 14:53:05,578 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 14:53:05,578 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 14:53:05,578 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 14:53:05,578 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 14:53:05,625 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 14:53:05,656 [1] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 14:53:06,171 [1] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 14:53:06,218 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 14:53:06,609 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - db connection error
+2009-04-16 15:19:47,703 [1] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 15:19:47,875 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 15:19:49,203 [1] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 15:19:49,203 [1] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 15:19:49,203 [1] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 15:19:49,203 [1] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 15:19:49,609 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 15:19:49,781 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 15:19:50,046 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 15:19:50,046 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 15:19:50,078 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 15:19:50,125 [1] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 15:19:52,578 [1] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 15:19:52,875 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 15:19:55,187 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - db connection error
+2009-04-16 15:24:31,000 [4] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 15:24:31,171 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 15:24:31,281 [4] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 15:24:31,281 [4] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 15:24:31,281 [4] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 15:24:31,281 [4] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 15:24:31,343 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 15:24:31,390 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 15:24:32,859 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 15:24:32,859 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 15:24:32,890 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 15:24:32,968 [4] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 15:27:07,562 [4] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 15:27:07,640 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 15:27:08,187 [4] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 15:27:08,187 [4] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 15:27:08,187 [4] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 15:27:08,187 [4] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 15:27:08,312 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 15:27:08,375 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 15:27:08,484 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 15:27:08,484 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 15:27:08,500 [4] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 15:27:08,531 [4] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 15:27:11,671 [4] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 15:27:11,750 [4] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 15:32:32,500 [1] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 15:32:32,640 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 15:32:32,843 [1] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 15:32:32,843 [1] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 15:32:32,843 [1] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 15:32:32,843 [1] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 15:32:32,890 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 15:32:32,921 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 15:32:33,078 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 15:32:33,078 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 15:32:33,093 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 15:32:33,125 [1] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 15:34:58,984 [1] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 15:35:34,343 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 15:38:04,828 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - db connection error
+2009-04-16 15:44:21,828 [1] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 15:44:31,640 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 15:45:44,453 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - db connection error
+2009-04-16 15:53:24,734 [1] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 15:53:30,125 [1] DEBUG Medical.Framework.ADO.DbAccess [(null)] - ---------------------db connection start------------------
+2009-04-16 18:51:38,296 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 18:53:02,140 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 18:53:24,890 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 18:56:55,281 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 18:57:31,375 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 19:06:10,546 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 19:06:22,484 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 19:08:54,703 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 19:13:35,593 [8] INFO  MedicalWebService.MainWebService [(null)] - ?ê⁄Executeê⁄å˚ start
+2009-04-16 19:16:28,765 [8] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 19:16:28,937 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 19:16:29,156 [8] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 19:16:29,156 [8] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 19:16:29,156 [8] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 19:16:29,156 [8] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 19:16:29,187 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 19:16:29,218 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 19:16:29,265 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 19:16:29,265 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 19:16:29,281 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 19:16:29,343 [8] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 19:16:30,984 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 19:17:46,109 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 19:19:56,046 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 19:20:16,250 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 19:28:17,296 [1] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 19:28:17,390 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 19:28:17,468 [1] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 19:28:17,468 [1] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 19:28:17,468 [1] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 19:28:17,468 [1] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 19:28:17,500 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 19:28:17,500 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 19:28:17,500 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 19:28:17,500 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 19:28:17,515 [1] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 19:28:17,546 [1] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 19:28:18,468 [1] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 19:29:40,343 [1] DEBUG MedicalWebService.MainWebService [(null)] -    at MedicalWebService.MainWebService.Execute(Byte[] b) in E:\svn\trunk\Medical\src\MedicalWebService\MainWebService.asmx.cs:line 47
+2009-04-16 19:29:42,031 [1] INFO  MedicalWebService.MainWebService [(null)] - end remote method
+2009-04-16 20:02:54,625 [8] DEBUG MedicalWebService.Global [(null)] - WebService start
+2009-04-16 20:02:54,890 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig
+2009-04-16 20:02:55,218 [8] INFO  NHibernate.Cfg.Environment [(null)] - NHibernate 1.2.0.4000 (1.2.0.4000)
+2009-04-16 20:02:55,250 [8] INFO  NHibernate.Cfg.Environment [(null)] - nhibernate section not found in application configuration file
+2009-04-16 20:02:55,250 [8] INFO  NHibernate.Cfg.Environment [(null)] - Bytecode provider name : lcg
+2009-04-16 20:02:55,250 [8] INFO  NHibernate.Cfg.Environment [(null)] - Using reflection optimizer
+2009-04-16 20:02:55,281 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init ARConfig success
+2009-04-16 20:02:55,406 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml
+2009-04-16 20:02:55,703 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init IssStruts,xml success
+2009-04-16 20:02:55,703 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode
+2009-04-16 20:02:55,734 [8] DEBUG Medical.Framework.Container.Factory.SingletonContainerFactory [(null)] - init MessageCode success
+2009-04-16 20:02:55,812 [8] DEBUG MedicalWebService.Global [(null)] - WebService start success
+2009-04-16 20:02:59,734 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 20:04:27,375 [8] DEBUG MedicalWebService.MainWebService [(null)] -    at Medical.Framework.Base.Impl.AbsAppLogicBase.DoApplication(AppParam appParam) in E:\svn\trunk\Medical\src\Medical\Framework.Base\Impl\AbsAppLogicBase.cs:line 56
+   at MedicalWebService.MainWebService.Execute(Byte[] b) in E:\svn\trunk\Medical\src\MedicalWebService\MainWebService.asmx.cs:line 47
+2009-04-16 20:04:27,375 [8] INFO  MedicalWebService.MainWebService [(null)] - end remote method
+2009-04-16 20:04:54,484 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 20:05:35,828 [8] DEBUG MedicalWebService.MainWebService [(null)] -    at Medical.Framework.Base.Impl.AbsAppLogicBase.DoApplication(AppParam appParam) in E:\svn\trunk\Medical\src\Medical\Framework.Base\Impl\AbsAppLogicBase.cs:line 56
+   at MedicalWebService.MainWebService.Execute(Byte[] b) in E:\svn\trunk\Medical\src\MedicalWebService\MainWebService.asmx.cs:line 47
+2009-04-16 20:05:37,125 [8] INFO  MedicalWebService.MainWebService [(null)] - end remote method
+2009-04-16 20:07:53,812 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 20:08:31,546 [8] DEBUG MedicalWebService.MainWebService [(null)] -    at Medical.Framework.Base.Impl.AbsAppLogicBase.DoApplication(AppParam appParam) in E:\svn\trunk\Medical\src\Medical\Framework.Base\Impl\AbsAppLogicBase.cs:line 56
+   at MedicalWebService.MainWebService.Execute(Byte[] b) in E:\svn\trunk\Medical\src\MedicalWebService\MainWebService.asmx.cs:line 47
+2009-04-16 20:08:32,890 [8] INFO  MedicalWebService.MainWebService [(null)] - end remote method
+2009-04-16 20:08:53,812 [8] INFO  MedicalWebService.MainWebService [(null)] - begin remote method
+2009-04-16 20:10:00,968 [8] DEBUG MedicalWebService.MainWebService [(null)] -    at Medical.Framework.Base.Impl.AbsAppLogicBase.DoApplication(AppParam appParam) in E:\svn\trunk\Medical\src\Medical\Framework.Base\Impl\AbsAppLogicBase.cs:line 56
+   at MedicalWebService.MainWebService.Execute(Byte[] b) in E:\svn\trunk\Medical\src\MedicalWebService\MainWebService.asmx.cs:line 47
+2009-04-16 20:10:02,062 [8] INFO  MedicalWebService.MainWebService [(null)] - end remote method

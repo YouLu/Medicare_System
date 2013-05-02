@@ -1,0 +1,21 @@
+﻿<Window x:Class="MedicalSystem.Pf.MessageBox.Form.MedicalSystemErrorMessageBox"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MESSAGE" Height="350" Width="530"  ResizeMode="NoResize" WindowStyle="None"
+        Loaded="Window_Loaded">
+    <Grid>
+        
+        
+
+        <Image Name="back" Stretch="Fill" Source="Images/BackGroundImg.jpg" />
+
+
+        <TextBlock  Height="34"   Margin="151,33,44,0" Name="BRIEF" VerticalAlignment="Top" Background="#9F000000" FontSize="18" Foreground="White" TextWrapping="Wrap"/>
+        <TextBlock Margin="151,84,44,73" Name="DETAIL" Background="#9F000000" Foreground="White" FontSize="18" TextWrapping="Wrap" />
+        
+        <Image Height="47" HorizontalAlignment="Left" Margin="44,20,0,0" Name="ICONERROR" Stretch="Fill" VerticalAlignment="Top" Width="54" Source="Images/icon_error.png" />
+       
+        <Button Height="26" Margin="0,0,44,29" Name="BUTTON" Click="Btn_Click" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="88"></Button>
+    </Grid>
+</Window>
+

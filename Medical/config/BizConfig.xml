@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BizConfig>
+  <NameSpace name="Biz">
+    <!-- 配置事例
+         每写一个Biz类需要配置一个<Bussness></Bussness> 下面的是例子  -->
+    <Bussness key="TestBiz">
+      <ClassName>TestBiz</ClassName>
+    </Bussness>
+  </NameSpace>
+</BizConfig>

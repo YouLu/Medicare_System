@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppLogicConfig> 
+    <!-- 配置事例
+         每写一个AppLogic类需要配置一个<AppLogic></AppLogic> 下面的是例子-->
+    <AppLogic key="AppLogicSample">
+      <Class>AppLogic.AppLogicTest</Class>
+    </AppLogic>
+</AppLogicConfig>

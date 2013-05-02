@@ -1,0 +1,839 @@
+2009-03-24 14:16:18,953 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:16:19,312 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:16:19,421 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:16:19,468 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:16:24,265 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:16:24,281 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:16:24,328 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:16:24,421 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:16:29,921 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:16:30,109 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:16:30,125 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:16:30,140 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:16:30,171 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:16:30,343 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:16:30,375 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:16:30,390 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:16:30,421 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:16:31,328 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:31,390 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:31,406 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:31,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:16:31,453 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:31,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:16:31,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:16:31,906 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:16:33,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:16:33,140 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:33,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:16:33,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:16:34,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:16:34,062 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:16:40,218 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:16:51,812 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:16:51,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:30,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:19:31,015 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:19:31,140 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:19:31,171 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:19:34,703 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:19:34,718 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:19:34,750 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:19:34,812 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:19:39,140 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:19:39,250 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:19:39,265 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:19:39,281 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:19:39,296 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:19:39,390 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:19:39,406 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:19:39,437 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:19:39,468 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:19:40,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:40,281 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:40,312 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:40,328 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:40,343 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:40,375 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:19:40,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:19:40,640 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:19:42,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:42,406 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:42,421 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:42,453 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:43,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:43,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:43,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:43,593 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:43,609 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:43,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:44,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:44,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:44,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:44,843 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:44,859 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:44,875 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:45,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:45,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:45,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:45,718 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:45,734 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:45,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:46,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:46,531 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:46,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:46,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:46,593 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:46,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:47,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:19:47,812 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:19:56,484 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:19:56,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:19:57,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:57,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:57,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:57,687 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:57,703 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:57,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:58,328 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:58,343 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:58,359 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:58,390 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:58,406 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:58,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:58,984 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:59,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:59,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:59,046 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:59,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:59,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:19:59,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:19:59,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:19:59,531 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:19:59,546 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:19:59,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:19:59,593 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:00,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:00,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:20:00,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:20:00,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:00,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:20:00,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:00,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:00,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:00,703 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:00,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:01,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:01,234 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:01,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:01,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:01,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:01,718 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:01,734 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:01,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:02,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:02,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:02,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:02,109 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:02,437 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:02,453 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:02,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:02,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:02,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:02,984 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:03,015 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:03,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:03,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:03,515 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:03,531 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:03,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:04,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:04,218 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:04,234 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:04,265 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:04,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:04,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:04,703 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:04,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:05,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:05,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:05,078 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:05,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:05,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:05,500 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:05,515 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:05,531 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:06,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:06,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,140 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:06,375 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:06,390 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,406 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:06,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:06,656 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,687 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:06,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:06,953 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:06,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:07,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:07,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:20:07,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:07,281 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:20:07,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:20:08,265 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:20:08,281 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:20:09,203 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:20:10,515 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:20:10,546 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:20:10,562 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:20:10,593 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:20:10,671 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:20:10,687 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:20:10,718 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:20:10,750 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:20:10,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:20:12,843 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:20:13,781 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:21:15,671 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:21:15,750 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:21:15,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:21:15,796 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:21:17,390 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:21:17,437 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:21:17,453 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:21:17,484 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:21:21,734 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:21:21,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:21:21,781 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:21:21,796 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:21:21,828 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:21:21,875 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:21:21,890 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:21:21,921 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:21:21,937 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:21:22,531 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:22,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:22,609 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:22,625 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:22,656 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:22,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:21:22,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:21:22,875 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:21:24,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:24,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:24,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:24,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:24,828 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:24,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:25,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:25,250 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:25,281 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:25,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:25,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:25,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:25,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:25,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:25,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:25,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:26,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:26,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:26,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:26,140 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:26,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:26,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:26,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:26,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:26,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:26,734 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:26,750 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:26,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:30,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:30,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:30,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:30,390 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:21:36,046 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:21:36,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:37,828 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:37,859 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:37,875 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:37,906 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:21:39,500 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:21:39,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:40,796 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:40,828 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:40,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:40,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:40,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:40,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:41,375 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:41,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:41,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:41,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:41,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:41,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:41,953 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:41,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:42,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:42,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:42,078 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:42,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:42,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:42,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:42,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:42,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:42,812 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:42,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:44,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent Start!----------------------------------
+2009-03-24 14:21:44,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen ScreenTransferEvent Start!----------------------------------
+2009-03-24 14:21:44,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:44,578 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:47,531 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:21:48,765 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:21:50,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen ScreenTransferEvent End!----------------------------------
+2009-03-24 14:21:50,312 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:21:51,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:51,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:51,687 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:51,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:52,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:52,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:52,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:52,234 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:52,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:52,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:52,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:52,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:52,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:52,765 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:52,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:52,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:53,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:53,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:53,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:53,234 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:53,250 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:53,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:53,796 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:53,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:53,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:53,859 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:53,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:53,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:54,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:54,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:54,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:54,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:54,984 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:55,015 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:55,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:55,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:55,593 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:55,609 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:55,625 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:55,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:56,015 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:56,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:56,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:56,078 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:56,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:56,109 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:21:56,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:21:56,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:21:56,453 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:21:56,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:21:56,484 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:21:56,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:03,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:03,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:03,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:03,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:03,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:03,765 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:03,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:03,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:04,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:04,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:04,218 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:04,250 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:04,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:04,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:04,593 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:04,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:04,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:04,953 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:04,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:05,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:05,250 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:05,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:05,296 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:05,312 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:12,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:12,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:12,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:12,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:13,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:13,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:13,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:13,984 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:14,015 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:14,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:14,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:14,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:14,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:14,687 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:14,703 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:14,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:15,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:15,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:15,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:15,250 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:15,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:15,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:16,578 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:16,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:16,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:16,640 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:16,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:16,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:17,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:17,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:17,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:17,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:17,218 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:17,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:20,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:20,359 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:20,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:20,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:20,500 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:20,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:22,328 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:22,343 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:22,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:22,421 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:22,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:22,453 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:22:29,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:22:29,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:22:29,250 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:22:29,281 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:22:29,296 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:22:29,328 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:23:04,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:23:04,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:23:04,953 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:23:04,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:23:05,000 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:23:05,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:23:09,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:23:09,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:23:09,953 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:23:09,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:23:10,000 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:23:10,015 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:23:48,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:23:48,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:23:48,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:23:48,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:23:48,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:23:48,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:23:55,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:23:55,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:23:55,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:23:55,531 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:23:55,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:23:55,578 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:10,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:10,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:10,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:10,750 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:10,781 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:10,796 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:11,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:11,531 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:11,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:11,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:11,593 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:11,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:12,437 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:12,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:12,531 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:12,546 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:12,578 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:12,593 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:13,062 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:13,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:13,109 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:13,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:13,156 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:13,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:13,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:13,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:13,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:13,718 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:13,750 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:13,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:14,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:14,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:14,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:14,531 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:14,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:14,578 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:15,671 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:15,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:15,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:15,734 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:15,750 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:15,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:16,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:16,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:16,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:16,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:16,281 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:16,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:16,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:16,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:16,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:16,828 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:24:18,984 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:24:19,015 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:20,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:20,921 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:20,937 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:20,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:26,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:26,312 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:26,328 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:26,343 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:27,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:27,046 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:27,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:27,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:28,437 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:28,453 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:28,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:28,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:29,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:30,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:30,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:30,046 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:30,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:30,093 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:32,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:32,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:32,453 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:32,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:32,484 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:32,515 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:33,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:33,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:33,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:33,781 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:33,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:33,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:36,312 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:36,343 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:36,359 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:36,390 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:24:38,453 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:24:38,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:24:59,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:24:59,796 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:24:59,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:24:59,843 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:24:59,859 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:24:59,890 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:00,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:00,984 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:01,015 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:01,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:09,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:09,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:09,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:09,796 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:25:11,953 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:25:12,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:13,375 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:13,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:13,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:13,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:13,468 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:13,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:15,109 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:15,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:15,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:15,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:15,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:15,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:20,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:20,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:20,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:20,765 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:20,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:20,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:21,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:21,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:21,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:21,671 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:21,703 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:21,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:33,875 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:33,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:33,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:33,937 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:33,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:33,984 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:36,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:36,406 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:36,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:36,453 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:47,890 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:47,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:47,937 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:47,953 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:50,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:50,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:50,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:50,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:50,875 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:50,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:50,921 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:50,937 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:51,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:51,437 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:51,453 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:51,468 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:52,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:53,000 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:53,015 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:53,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:53,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:53,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:53,437 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:53,453 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:53,484 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:53,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:54,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:54,187 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:54,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:54,250 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:54,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:54,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:54,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:54,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:54,859 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:54,875 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:54,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:54,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:55,250 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:55,265 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:55,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:55,312 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:55,343 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:55,359 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:55,812 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:55,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:55,859 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:55,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:55,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:55,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:56,796 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:56,828 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:56,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:56,859 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:25:56,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:25:56,906 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:25:57,375 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:25:57,390 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:25:57,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:25:57,437 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-24 14:25:59,718 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-24 14:25:59,734 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:26:02,484 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:26:02,500 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:26:04,250 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:26:05,375 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:26:05,406 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:26:05,421 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:26:05,453 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:26:05,515 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:26:05,546 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:26:05,578 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:26:05,593 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:26:05,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:26:09,625 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:26:09,656 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:26:09,671 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:26:09,687 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:26:09,703 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:26:09,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:26:09,781 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:26:09,812 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:26:09,828 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:26:09,875 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:26:09,890 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:26:09,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:26:09,921 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:26:09,953 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:26:09,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:26:10,046 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:26:10,140 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:26:17,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:26:17,703 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:26:18,781 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:26:19,906 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:26:19,921 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:26:19,953 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:26:19,968 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:26:20,031 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:26:20,062 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:26:20,093 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:26:20,109 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:26:20,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:26:21,000 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:26:22,093 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:27:28,843 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:27:28,921 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:27:28,953 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:27:28,984 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:27:31,515 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:27:31,546 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:27:31,562 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:27:31,593 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:27:39,515 [10] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:27:39,546 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:27:39,562 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:27:39,578 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:27:39,609 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:27:39,687 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:27:39,718 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:27:39,734 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:27:39,765 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:27:40,343 [10] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:40,390 [10] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:40,437 [10] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:40,468 [10] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:27:40,484 [10] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:40,515 [10] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:27:40,593 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:27:40,718 [10] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:27:44,812 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:27:44,843 [10] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:44,859 [10] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:44,875 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:27:49,609 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:27:49,625 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:27:50,000 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:27:50,046 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:50,078 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:27:50,093 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:27:55,656 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:27:55,687 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:27:55,703 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:27:55,734 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:55,750 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:27:55,765 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:27:56,343 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:27:56,375 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:27:56,390 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:27:56,421 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:56,437 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:27:56,453 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:27:57,968 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:27:57,984 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:27:58,015 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:27:58,031 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:27:58,062 [10] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:27:58,078 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:29:09,343 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:29:09,406 [10] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:29:10,562 [10] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:29:11,687 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:29:11,718 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:29:11,734 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:29:11,765 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:29:11,812 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:29:11,843 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:29:11,875 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:29:11,906 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:29:12,000 [10] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:29:13,218 [10] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:29:14,234 [10] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:38:54,671 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:38:55,015 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:38:55,125 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:38:55,156 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:43:27,640 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:43:27,984 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:43:28,109 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:43:28,140 [10] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:46:05,937 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:46:06,250 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:46:06,390 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:46:06,406 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:46:11,203 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:46:11,234 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:46:11,250 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:46:11,343 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:46:15,890 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-24 14:46:16,000 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:46:16,031 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:46:16,046 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:46:16,078 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:46:16,531 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:46:16,546 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:46:16,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:46:16,609 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:46:17,375 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:17,453 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:17,484 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:17,500 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:46:17,515 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:17,531 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-24 14:46:17,640 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-24 14:46:17,812 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-24 14:46:18,921 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-24 14:46:18,953 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:18,968 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:18,984 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-24 14:46:19,609 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:46:19,625 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:46:20,046 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:46:20,093 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:20,109 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:46:20,125 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:46:20,968 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:46:21,000 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:46:21,031 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:46:21,062 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:21,078 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:46:21,109 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:46:21,515 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:46:21,546 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:46:21,562 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:46:21,593 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:21,609 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:46:21,625 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:46:21,796 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-24 14:46:21,812 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-24 14:46:21,843 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-24 14:46:21,859 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-24 14:46:21,875 [9] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-24 14:46:21,906 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-24 14:46:23,062 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-24 14:46:23,109 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:46:24,328 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-24 14:46:25,468 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-24 14:46:25,500 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-24 14:46:25,531 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-24 14:46:25,546 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-24 14:46:25,625 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-24 14:46:25,656 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-24 14:46:25,671 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-24 14:46:25,703 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-24 14:46:25,796 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-24 14:46:26,765 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-24 14:46:27,656 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------

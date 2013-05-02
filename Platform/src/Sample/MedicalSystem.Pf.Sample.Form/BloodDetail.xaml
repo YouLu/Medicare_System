@@ -1,0 +1,107 @@
+﻿<MedicalSystem:MedicalSystemScreenBase x:Class="MedicalSystem.Pf.Sample.Form.BloodDetail"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:MedicalSystem="clr-namespace:MedicalSystem.Pf.Common.ScreenTemplate;assembly=MedicalSystem.Pf.Common.ScreenTemplate"                     
+    Height="550" Width="791" Loaded="MedicalSystemScreenBase_Loaded">
+    <Grid  Height="550" Width="791">
+        <Grid  Height="115" Width="316" HorizontalAlignment="Left" Margin="20.5,63,0,0" VerticalAlignment="Top" Background="#9F000000">
+            <Label Height="29" HorizontalAlignment="Left" Margin="3.5,0,0,0" Name="label2" VerticalAlignment="Top" Width="86" Foreground="White">● 患者基本信息</Label>
+            <Label HorizontalAlignment="Left" Margin="22,22,0,68" Name="label3" Width="55" Foreground="White">患者ID</Label>
+            <Label HorizontalAlignment="Left" Margin="22,48,0,0" Name="label4" Width="55" Height="23" VerticalAlignment="Top" Foreground="White">患者名</Label>
+            <Label Height="23" HorizontalAlignment="Left" Margin="22,0,0,22" Name="label5" VerticalAlignment="Bottom" Width="55" Foreground="White">出生日期</Label>
+            <Label Height="23" HorizontalAlignment="Left" Margin="22,0,0,0" Name="label6" VerticalAlignment="Bottom" Width="44.5" Foreground="White">年龄</Label>
+            <Label Height="23" Margin="71,0,0,0" Name="lblPAge" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="37" Foreground="White"></Label>
+            <Label Height="23" Margin="0,0,130.5,0" Name="lbl67" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="44.5" Foreground="White">性别</Label>
+            <Label Height="23" HorizontalAlignment="Right" Margin="0,0,89,0" Name="lblPSex" VerticalAlignment="Bottom" Width="44.5" Foreground="White"></Label>
+            <Label Margin="0,22,130.5,0" Name="lblPID" HorizontalAlignment="Right" Width="86" Height="25" VerticalAlignment="Top" Foreground="White"></Label>
+            <Label Margin="83.5,46,130.5,0" Name="lblPName" Height="25" VerticalAlignment="Top" Foreground="White"></Label>
+            <Label Height="25" Margin="83.5,0,130.5,20" Name="lblPDate" VerticalAlignment="Bottom" Foreground="White"></Label>
+        </Grid>
+
+        <Grid Margin="20.5,185,20.5,220" Background="#9F000000">
+            <Label Height="28" HorizontalAlignment="Left" Name="label18" VerticalAlignment="Top" Width="86" Foreground="White">● 受付信息</Label>
+            <Label Height="29" HorizontalAlignment="Left" Margin="36,21,0,0" Name="label19" VerticalAlignment="Top" Width="53.5" Foreground="White">受付No.</Label>
+            <Label Height="29" HorizontalAlignment="Left" Margin="125,21,0,0" Name="lblRNO" VerticalAlignment="Top" Width="72.5" Foreground="White"></Label>
+            <Label Height="29" HorizontalAlignment="Left" Margin="237,21,0,0" Name="label21" VerticalAlignment="Top" Width="63" Foreground="White">担当医生</Label>
+            <Label Height="29" Margin="304,21,0,0" Name="lblDoctor" VerticalAlignment="Top" HorizontalAlignment="Left" Width="63" Foreground="White"></Label>
+            <Label HorizontalAlignment="Left" Margin="36,50,0,70" Name="label23" Width="53.5" Foreground="White">科室</Label>
+            <Label HorizontalAlignment="Left" Margin="125,50,0,70" Name="lblDept" Width="63" Foreground="White"></Label>
+            <Label HorizontalAlignment="Left" Margin="237,50,0,70" Name="label25" Width="55" Foreground="White">病房</Label>
+            <Label Margin="304,50,0,70" Name="lblWard" HorizontalAlignment="Left" Width="63" Foreground="White"></Label>
+            <Label Margin="370.5,50,325.5,70" Name="label27" Foreground="White">疾患</Label>
+            <Label HorizontalAlignment="Right" Margin="0,50,257,70" Name="lblDisease" Width="63" Foreground="White"></Label>
+            <Label Height="25" HorizontalAlignment="Left" Margin="36,0,0,37" Name="label29" VerticalAlignment="Bottom" Width="50" Foreground="White">血型</Label>
+            <Label Height="25" HorizontalAlignment="Left" Margin="125,0,0,37" Name="lblBType" VerticalAlignment="Bottom" Width="63" Foreground="White"></Label>
+            <Label Height="25" HorizontalAlignment="Left" Margin="237,0,0,37" Name="label31" VerticalAlignment="Bottom" Width="55" Foreground="White">备注</Label>
+            <TextBox Height="65" Margin="323.5,0,109.5,6" Name="txtOComment" VerticalAlignment="Bottom" />
+        </Grid>
+        <Grid Height="115" Margin="0,63,20.5,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="426.5" Background="#9F000000">
+            <Label Height="29" HorizontalAlignment="Left" Name="label8" VerticalAlignment="Top" Width="86" Foreground="White">● 身体信息</Label>
+            <Label Margin="9,39,383,44" Name="label9" Foreground="White">身长</Label>
+            <Label HorizontalAlignment="Left" Margin="44,39,0,44" Name="lblPHeight" Width="42" Foreground="White"></Label>
+            <Label Margin="0,39,304,44" Name="label11" HorizontalAlignment="Right" Width="30" Foreground="White">cm</Label>
+            <Label HorizontalAlignment="Left" Margin="127,39,0,44" Name="label12" Width="32.5" Foreground="White">体重</Label>
+            <Label Margin="165,39,0,44" Name="lblPWeight" HorizontalAlignment="Left" Width="51.5" Foreground="White"></Label>
+            <Label HorizontalAlignment="Left" Margin="210,39,0,44" Name="label14" Width="29" Foreground="White">kg</Label>
+            <Label HorizontalAlignment="Left" Margin="260.5,39,0,44" Name="lbl4546" Width="69" Foreground="White">循坏血液量</Label>
+            <Label HorizontalAlignment="Right" Margin="0,39,39,44" Name="lblPBlood" Width="52" Foreground="White"></Label>
+            <Label HorizontalAlignment="Right" Margin="0,39,0,44" Name="label17" Width="33" Foreground="White">ml</Label>
+        </Grid>
+        <Grid Margin="20.5,0,20.5,160" Height="54" VerticalAlignment="Bottom" Background="#9F000000">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="192*" />
+                <ColumnDefinition Width="216*" />
+                <ColumnDefinition Width="342*" />
+            </Grid.ColumnDefinitions>
+            <Label HorizontalAlignment="Left" Name="label32" Width="86" Margin="0,0,0,24" Foreground="White">● 采血预定</Label>
+            <Label Margin="22,13,84,9" Name="label33" Foreground="White">采血回数      第</Label>
+            <Label HorizontalAlignment="Right" Margin="0,15,16.5,16" Name="label35" Width="27" Foreground="White">回</Label>
+            <Label Margin="186,13,180,9" Name="label36" Foreground="White" Grid.ColumnSpan="2">制剂名</Label>
+            <TextBox HorizontalAlignment="Right" Name="txtHarvestNum" Width="37" Margin="0,15,43.5,16"  />
+            <Label HorizontalAlignment="Left" Margin="35,13,0,9" Name="lblDrug" Width="49" Foreground="White" Grid.Column="1"></Label>
+            <Label Margin="95,13,49,9" Name="label37" Foreground="White" Grid.Column="1">预定采血量</Label>
+            <Label Margin="160.5,13,0,9" Name="lblCapacity" Foreground="White" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Width="57"></Label>
+            <Label HorizontalAlignment="Left" Margin="212,13,0,9" Name="label39" Width="20.5" Foreground="White" Grid.ColumnSpan="2" Grid.Column="1">ml</Label>
+            <Label HorizontalAlignment="Left" Margin="42.5,13,0,9" Name="label40" Width="63" Foreground="White" Grid.Column="2">预定采血日</Label>
+            <Label HorizontalAlignment="Left" Margin="111,15,0,7" Name="lblHDate" Width="57" Foreground="White" Grid.Column="2"></Label>
+            <Label HorizontalAlignment="Right" Margin="0,13,76,7" Name="label42" Width="78" Foreground="White" Grid.Column="2">预定采血回数</Label>
+            <Label HorizontalAlignment="Right" Margin="0,13,39,9" Name="lblHarvestNum" Width="31" Foreground="White" Grid.Column="2"></Label>
+            <Label HorizontalAlignment="Right" Margin="0,13,8,9" Name="label44" Width="25" Foreground="White" Grid.Column="2">回</Label>
+        </Grid>
+        <Grid Margin="20.5,0,20.5,15" Height="139" VerticalAlignment="Bottom" Background="#9F000000">
+            <Label HorizontalAlignment="Left" Name="label45" Width="86" Height="30" VerticalAlignment="Top" Foreground="White">● 采血结果输入</Label>
+            <Label HorizontalAlignment="Left" Margin="22,25,0,0" Name="label46" Width="86" Height="25" VerticalAlignment="Top" Foreground="White">实际采血日期</Label>
+            <Label HorizontalAlignment="Left" Margin="22,59,0,47" Name="label47" Width="86" Height="25"  Foreground="White">实际采血量</Label>
+            <Label Height="25" HorizontalAlignment="Left" Margin="22,0,0,13" Name="label48" VerticalAlignment="Bottom" Width="86" Foreground="White">采血者</Label>
+            <TextBox HorizontalAlignment="Left" Margin="111.5,25,0,0" Name="txtHDate" Width="99.5" Height="25" VerticalAlignment="Top"/>
+            <TextBox HorizontalAlignment="Left" Margin="111.5,59,0,47" Name="txtHNum" Width="86"/>
+            <Label HorizontalAlignment="Left" Margin="195,59,0,51" Name="label49" Width="25" Foreground="White">ml</Label>
+            <ComboBox Height="25" HorizontalAlignment="Left" Margin="111.5,0,0,13" Name="cbxDoctor" VerticalAlignment="Bottom" Width="99.5" />
+            <Label HorizontalAlignment="Left" Margin="246,25,0,0" Name="label50" Width="46" Height="25" VerticalAlignment="Top" Foreground="White">血压</Label>
+            <Label HorizontalAlignment="Left" Margin="246,59,0,47" Name="label51" Width="46" Foreground="White">脉搏</Label>
+            <Label Height="25" HorizontalAlignment="Left" Margin="246,0,0,13" Name="label52" VerticalAlignment="Bottom" Width="46" Foreground="White">HB</Label>
+            <TextBox Height="25" HorizontalAlignment="Left" Margin="294,25,0,0" Name="txtBeforeL" VerticalAlignment="Top" Width="50" />
+            <TextBox HorizontalAlignment="Left" Margin="294,59,0,51" Name="txtBPulse" Width="50" />
+            <TextBox HorizontalAlignment="Left" Margin="294,0,0,13" Name="txtHB" Width="50" Height="28" VerticalAlignment="Bottom" />
+            <Label Margin="342,59,0,47" Name="label53" HorizontalAlignment="Left" Width="38.5" Foreground="White">回/分</Label>
+            <Label Height="25" Margin="342,0,369.5,13" Name="label54" VerticalAlignment="Bottom" Foreground="White">(g/dl)</Label>
+            <Label Height="21" Margin="342,25,0,0" Name="label55" VerticalAlignment="Top" HorizontalAlignment="Left" Width="17" Foreground="White">~</Label>
+            <TextBox Height="25" Margin="359.5,25,0,0" Name="txtBeforeH" VerticalAlignment="Top" HorizontalAlignment="Left" Width="50" />
+            <Label Height="30" Margin="332.5,0,358.5,0" Name="label56" VerticalAlignment="Top" Foreground="White">采血前</Label>
+            <TextBox Height="25" HorizontalAlignment="Left" Margin="417.5,25,0,0" Name="txtAfterL" VerticalAlignment="Top" Width="50" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,25,221,0" Name="txtAfterH" VerticalAlignment="Top" Width="50" />
+            <Label Height="21" HorizontalAlignment="Right" Margin="0,25,267,0" Name="label57" VerticalAlignment="Top" Width="17" Foreground="White">~</Label>
+            <Label Height="30" HorizontalAlignment="Right" Margin="0,0,240.5,0" Name="label58" VerticalAlignment="Top" Width="59" Foreground="White">采血后</Label>
+            <Label Height="30" HorizontalAlignment="Right" Margin="0,0,148,0" Name="label59" VerticalAlignment="Top" Width="59" Foreground="White">备注</Label>
+            <TextBox HorizontalAlignment="Right" Margin="0,25,8,13" Name="txtSComment" Width="199" />
+            <TextBox HorizontalAlignment="Right" Margin="0,59,284,0" Name="txtAPulse" Width="48.5" Height="24" VerticalAlignment="Top" />
+            <Label HorizontalAlignment="Right" Margin="0,59,245.5,47" Name="label10" Width="38.5" Foreground="White">回/分</Label>
+        </Grid>
+        <Grid Height="45" Margin="20.5,11,20,0" Name="grid1" VerticalAlignment="Top" Background="#9F000000">
+            <TextBox Margin="0,12,502.5,13" Name="txtRNO" HorizontalAlignment="Right" Width="62" TextAlignment="Left"></TextBox>
+            <TextBox Margin="71,12,0,13" Name="txtRDate" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" Width="86"></TextBox>
+            <Label HorizontalAlignment="Left" Margin="0,9,0,8" Name="label1" Width="63" FontFamily="Tahoma" FontWeight="Normal" Foreground="White">● 受付No.</Label>
+        </Grid>
+    </Grid>
+</MedicalSystem:MedicalSystemScreenBase>
+

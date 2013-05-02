@@ -1,0 +1,123 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.UIControl.Form\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.baml
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\log4net.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.pdb
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\log4net.dll
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.baml
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.baml
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.baml
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.baml
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.baml
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\FunctionKeyArea.g.cs
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\GlobalMenuArea.g.cs
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\HeaderArea.g.cs
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MessageArea.g.cs
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\SubMenuArea.g.cs
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form_MarkupCompile.cache
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.g.resources
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\Final\Platform\src\UIControls\MedicalSystem.Pf.UIControl.Form\obj\Debug\MedicalSystem.Pf.UIControl.Form.pdb

@@ -1,0 +1,38 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:MedicalSystem_Pf_UIControl_Form="clr-namespace:MedicalSystem.Pf.UIControl.Form;assembly=MedicalSystem.Pf.UIControl.Form"
+    xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/composite-font"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2006" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+    x:Class="MedicalSystem.Pf.MainScreen.Form.MainScreen"
+     Loaded="Window_Loaded"
+    Title="MEDICALSYSTEM" WindowStyle="None"  HorizontalAlignment="Stretch" WindowStartupLocation="CenterScreen" Background="White"
+    Height="768" Width="1024" ResizeMode="NoResize" xmlns:my="clr-namespace:Infragistics.Windows.DataPresenter;assembly=Infragistics3.Windows.DataPresenter.v7.1">
+
+    <Window.Resources>
+
+    </Window.Resources>
+    <Grid Height="768" Name="grid1" Width="1024" Background="White">
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="459*" />
+            <RowDefinition Height="118*" />
+            <RowDefinition Height="0*" />
+        </Grid.RowDefinitions>
+        <Image Name="image1" Stretch="Fill" Source="Images\BackGroundImg.jpg" Margin="-22,0,0,-8" Grid.RowSpan="3" />
+       
+        <Grid Name="grid2" Background="Transparent" Margin="-14,0,0,0" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="640*" />
+                <RowDefinition Height="128*" />
+            </Grid.RowDefinitions>
+            <MedicalSystem_Pf_UIControl_Form:SubMenuArea x:Name="subMenuArea" HorizontalAlignment="Left" Margin="21,107,0,111" Width="154" Grid.RowSpan="2" />
+            <Grid Margin="195,107,20,111" Name="GridSubScreen" Background="Transparent" Grid.RowSpan="2"></Grid>
+            <MedicalSystem_Pf_UIControl_Form:GlobalMenuArea x:Name="globalMenuArea" Height="43" VerticalAlignment="Top" Margin="14,58,0,0" />
+            <MedicalSystem_Pf_UIControl_Form:MessageArea x:Name="messageArea" Grid.Row="1" Height="47" VerticalAlignment="Bottom" Margin="14,0,0,0" />
+            <MedicalSystem_Pf_UIControl_Form:FunctionKeyArea x:Name="functionKeyArea" Grid.Row="1" Margin="14,26,0,46" />
+        </Grid>
+        <MedicalSystem_Pf_UIControl_Form:HeaderArea x:Name="headerArea" Height="49" VerticalAlignment="Top" Margin="0,10,0,0" />
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\log4net.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\bin\Debug\log4net.dll
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.baml
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.baml
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystemErrorMessageBox.g.cs
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MessageBoxWindow.g.cs
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\App.g.cs
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form_MarkupCompile.cache
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.g.resources
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.Properties.Resources.resources
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.csproj.GenerateResource.Cache
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\Final\Platform\src\MessageBox\MedicalSystem.Pf.MessageBox.Form\obj\Debug\MedicalSystem.Pf.MessageBox.Form.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dbconfig>
+  <dburl name="DBConnection" >
+    <value>Data Source=ISS-LVYOU\LVYOU;Initial Catalog=MedicalSystemClient;Integrated Security=True</value>
+  </dburl>
+
+  <dburl name="CodeAccess" >
+    <value>Data Source=ISS-LVYOU\LVYOU;Initial Catalog=MedicalSystem;Integrated Security=True</value>
+  </dburl>
+</dbconfig>

@@ -1,0 +1,426 @@
+2009-03-27 17:00:29,062 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:00:29,484 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:00:29,828 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:00:29,906 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:00:43,609 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:00:43,640 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:00:43,656 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:00:43,734 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:01:11,500 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:01:12,203 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:01:12,234 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:01:12,265 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:01:12,281 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:01:18,687 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:01:18,718 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:01:18,734 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:01:18,796 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:01:19,859 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:19,968 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:20,000 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:20,046 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:01:20,078 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:20,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:01:20,718 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:01:21,640 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:01:23,203 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:23,218 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:23,265 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:23,281 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:25,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:25,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:25,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:25,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:25,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:25,953 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:25,984 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:26,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:26,703 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:26,718 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:26,750 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:26,765 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:27,546 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:27,562 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:27,593 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:27,609 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:28,859 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:28,875 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:28,906 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:28,921 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:34,593 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:01:34,625 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance Start!----------------------------------
+2009-03-27 17:01:35,000 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen CreateBusinessScreenInstance End!----------------------------------
+2009-03-27 17:01:35,031 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea Start!----------------------------------
+2009-03-27 17:01:35,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.FunctionKeyArea [(null)] - FunctionKeyArea UpdateArea End!----------------------------------
+2009-03-27 17:01:35,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:01:36,562 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:01:36,609 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:01:40,140 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:01:41,796 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:01:41,828 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:01:41,843 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:01:41,875 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:01:41,953 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:01:41,984 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:01:42,015 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:01:42,046 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:01:42,156 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:01:46,031 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:01:46,062 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:01:48,296 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:01:49,046 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:01:49,140 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:01:50,546 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:01:50,562 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:01:52,843 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:01:53,484 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:01:54,984 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:05:46,843 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:05:47,203 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:05:47,265 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:05:47,296 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:05:49,546 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:05:49,578 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:05:49,609 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:05:49,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:06:04,296 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:06:04,437 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:06:04,453 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:06:04,484 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:06:04,500 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:06:06,109 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:06:06,140 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:06:06,156 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:06:06,187 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:06:07,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:07,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:07,140 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:07,187 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:06:07,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:07,234 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:06:07,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:06:08,015 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:06:09,328 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:06:09,359 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:09,484 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:06:09,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:06:13,750 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:06:13,828 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:06:22,296 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:06:22,312 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:06:23,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:06:23,250 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:06:24,531 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:06:26,187 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:06:26,265 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:06:26,296 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:06:26,328 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:06:26,406 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:06:26,421 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:06:26,453 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:06:26,484 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:06:26,593 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:06:27,453 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:06:28,625 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:25:38,656 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:25:38,921 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:25:39,015 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:25:39,046 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:25:40,343 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:25:40,437 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:25:40,453 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:25:40,562 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:25:51,796 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:25:51,906 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:25:51,937 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:25:51,953 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:25:51,968 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:25:52,125 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:25:52,156 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:25:52,187 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:25:52,218 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:25:53,031 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:53,062 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:53,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:53,109 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:25:53,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:53,171 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:25:53,656 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:25:53,796 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:25:55,328 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:25:55,359 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:55,390 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:25:55,406 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:25:56,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:25:56,234 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:26:42,187 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:26:42,218 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:26:42,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:26:42,984 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:26:44,625 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:26:44,640 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:26:45,343 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:26:45,375 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:45,390 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:45,421 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:26:46,078 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:26:46,093 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:46,125 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:46,140 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:26:46,781 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:26:46,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:46,828 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:26:46,843 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:26:47,296 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:26:47,343 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:26:49,203 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:26:49,234 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:26:50,031 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:26:50,046 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:26:51,421 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:26:53,109 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:26:53,125 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:26:53,171 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:26:53,218 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:26:53,312 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:26:53,343 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:26:53,359 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:26:53,390 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:26:53,500 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:26:54,515 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:26:55,500 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:34:33,156 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:34:33,437 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:34:33,546 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:34:33,562 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:34:34,187 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:34:34,218 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:34:34,234 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:34:34,359 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:35:14,000 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:35:14,093 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:35:14,109 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:35:14,140 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:35:14,156 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:35:14,296 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:35:14,312 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:35:14,343 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:35:14,375 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:35:15,187 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:15,218 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:15,234 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:15,265 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:35:15,281 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:15,312 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:35:15,843 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:35:16,000 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:35:16,765 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:35:16,796 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:16,828 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:35:16,843 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:35:17,875 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:35:17,953 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:35:39,046 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:35:39,093 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:35:39,921 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:35:39,953 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:35:41,437 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:35:43,109 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:35:43,171 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:35:43,203 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:35:43,218 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:35:43,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:35:43,296 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:35:43,328 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:35:43,359 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:35:43,484 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:35:44,312 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:35:45,390 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:39:27,312 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:39:27,593 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:39:27,703 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:39:27,734 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:39:28,234 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:39:28,250 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:39:28,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:39:28,390 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:39:31,984 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:39:32,093 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:39:32,125 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:39:32,140 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:39:32,171 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:39:32,265 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:39:32,296 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:39:32,312 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:39:32,343 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:39:33,187 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:33,203 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:33,234 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:33,250 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:39:33,281 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:33,296 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:39:33,484 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:39:33,671 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:39:34,531 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:39:34,562 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:34,593 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:39:34,625 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:39:35,296 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:39:35,359 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:40:27,609 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:40:27,875 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:40:28,390 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:40:28,421 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:40:29,437 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:40:30,781 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:40:30,812 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:40:30,843 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:40:30,875 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:40:30,968 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:40:31,000 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:40:31,031 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:40:31,062 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:40:31,171 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:40:32,062 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:40:33,093 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:45:15,875 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:45:16,187 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:45:16,281 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:45:16,312 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:45:16,781 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:45:16,812 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:45:16,828 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:45:16,984 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:45:21,171 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:45:21,500 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:45:21,546 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:45:21,578 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:45:21,593 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:45:21,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:45:21,781 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:45:21,812 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:45:21,843 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:45:22,765 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:22,859 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:22,890 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:22,921 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:45:22,937 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:22,968 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:45:23,343 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:45:23,640 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:45:24,421 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:45:24,453 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:24,484 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:45:24,515 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:45:25,265 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:45:25,453 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:45:40,843 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:45:40,890 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:45:41,671 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:45:41,734 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:45:42,609 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:45:43,953 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:45:43,968 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:45:44,000 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:45:44,031 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:45:44,078 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:45:44,109 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:45:44,140 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:45:44,171 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:45:44,281 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:45:45,125 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:45:45,890 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:47:29,890 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:47:30,000 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:47:30,031 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:47:30,062 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:47:30,218 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:47:30,234 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:47:30,265 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:47:30,296 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:47:33,343 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:47:33,390 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:47:33,437 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:47:33,453 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:47:33,484 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:47:33,578 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:47:33,625 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:47:33,671 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:47:33,703 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:47:34,484 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:34,515 [9] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:34,531 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:34,546 [9] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:47:34,578 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:34,593 [9] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:47:34,703 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:47:34,859 [9] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:47:35,640 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:47:35,671 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:35,687 [9] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:47:35,718 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:47:36,187 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:47:36,234 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:47:42,859 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:47:42,890 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:47:43,593 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:47:43,609 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:47:44,390 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:47:45,703 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:47:45,734 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:47:45,765 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:47:45,796 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:47:45,843 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:47:45,875 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:47:45,906 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:47:45,937 [9] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:47:46,046 [9] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:47:47,046 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:47:47,828 [9] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:52:52,171 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:52:52,390 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:52:52,515 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:52:52,546 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:52:53,156 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:52:53,187 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:52:53,218 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:52:53,328 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:52:56,640 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon Start!----------------------------------
+2009-03-27 17:52:56,750 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:52:56,765 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:52:56,796 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:52:56,812 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:52:56,921 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:52:56,937 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:52:56,968 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:52:57,000 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:52:57,734 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:57,781 [11] INFO  MedicalSystem.Pf.UIControl.Form.HeaderArea [(null)] - HeaderArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:57,796 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:57,828 [11] INFO  MedicalSystem.Pf.UIControl.Form.GlobalMenuArea [(null)] - GlobalMenuArea UpdateArea End!----------------------------------
+2009-03-27 17:52:57,843 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:57,875 [11] INFO  MedicalSystem.Pf.UIControl.Form.MessageArea [(null)] - MessageArea UpdateArea End!----------------------------------
+2009-03-27 17:52:58,062 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] -  Window_Loaded(object sender, RoutedEventArgs e)==============
+2009-03-27 17:52:58,234 [11] INFO  MedicalSystem.Pf.Logon.Form.LogonScreen [(null)] - Logon End!----------------------------------
+2009-03-27 17:52:59,171 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent Start!----------------------------------
+2009-03-27 17:52:59,203 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:59,218 [11] INFO  MedicalSystem.Pf.UIControl.Form.SubMenuArea [(null)] - SubMenuArea UpdateArea Start!----------------------------------
+2009-03-27 17:52:59,250 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen GlobalMenuAreaEvent End!----------------------------------
+2009-03-27 17:52:59,968 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent Start!----------------------------------
+2009-03-27 17:53:00,062 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception Start!----------------------------------
+2009-03-27 17:53:11,406 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of Exception End!----------------------------------
+2009-03-27 17:53:11,437 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen SubMenuAreaEvent End!----------------------------------
+2009-03-27 17:53:12,125 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen HeaderAreaEvent Start!----------------------------------
+2009-03-27 17:53:12,140 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:53:12,937 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------
+2009-03-27 17:53:14,296 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin serizlize
+2009-03-27 17:53:14,328 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - serizlize success
+2009-03-27 17:53:14,343 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin compress
+2009-03-27 17:53:14,375 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - compress success
+2009-03-27 17:53:14,484 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - begin decompress
+2009-03-27 17:53:14,531 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - decompress success
+2009-03-27 17:53:14,546 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] -  start deserialize
+2009-03-27 17:53:14,578 [11] INFO  Medical.Framework.Util.AppParamFormatter [(null)] - deserialize success
+2009-03-27 17:53:14,687 [11] INFO  MedicalSystem.Pf.MainScreen.Form.MainScreen [(null)] - MainScreen FunctionKeyAreaEvent End!----------------------------------
+2009-03-27 17:53:15,531 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge Of String Start!----------------------------------
+2009-03-27 17:53:16,515 [11] INFO  MedicalSystem.Pf.MessageBox.Form.MessageBoxWindow [(null)] - MessageBoxWindow ShowMessge End!----------------------------------

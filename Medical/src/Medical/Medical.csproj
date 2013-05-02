@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{30089ABD-DBF2-4F8E-9733-980792499A78}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Medical</RootNamespace>
+    <AssemblyName>Medical</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.ActiveRecord, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\Castle.ActiveRecord.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Components.Validator, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\Castle.Components.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.DynamicProxy, Version=1.1.5.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\Castle.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=1.0.0.3, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=1.2.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Report\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Framework.ADO\CodeAccess.cs" />
+    <Compile Include="Framework.ADO\DbAccess.cs" />
+    <Compile Include="Framework.AOP\AopUtil\AttributeUtil.cs" />
+    <Compile Include="Framework.AOP\AopUtil\ResourceUtil.cs" />
+    <Compile Include="Framework.AOP\Attrs\BeanAttribute.cs" />
+    <Compile Include="Framework.AOP\Attrs\SqlAttribute.cs" />
+    <Compile Include="Framework.AOP\Attrs\SqlFileAttribute.cs" />
+    <Compile Include="Framework.AOP\ClassManager\AopClassManager.cs" />
+    <Compile Include="Framework.AOP\IAttributeReader.cs" />
+    <Compile Include="Framework.AOP\IDaoInterceptor.cs" />
+    <Compile Include="Framework.AOP\IDbHelper.cs" />
+    <Compile Include="Framework.AOP\Impl\AttributeReaderImpl.cs" />
+    <Compile Include="Framework.AOP\Impl\DaoInterceptorImpl.cs" />
+    <Compile Include="Framework.AOP\Impl\DbHelperImpl.cs" />
+    <Compile Include="Framework.Base\Entity\FunctionKeyEntity.cs" />
+    <Compile Include="Framework.Base\Entity\MedicalSystemMessage.cs" />
+    <Compile Include="Framework.Base\Entity\MenuEntity.cs" />
+    <Compile Include="Framework.Base\Entity\SubScreenEntity.cs" />
+    <Compile Include="Framework.Base\Entity\UserEntity.cs" />
+    <Compile Include="Framework.Base\IAppLogicBase.cs" />
+    <Compile Include="Framework.Base\IBizBase.cs" />
+    <Compile Include="Framework.Base\Impl\AbsAppLogicBase.cs" />
+    <Compile Include="Framework.Base\Impl\AbsBizBase.cs" />
+    <Compile Include="Framework.Base\Impl\BaseDao.cs" />
+    <Compile Include="Framework.Base\Impl\BaseEntity.cs" />
+    <Compile Include="Framework.Client\ProxyService.cs" />
+    <Compile Include="Framework.Constant\Constants.cs" />
+    <Compile Include="Framework.Constant\ExceptionCode.cs" />
+    <Compile Include="Framework.Container\Factory\SingletonContainerFactory.cs" />
+    <Compile Include="Framework.Container\Impl\SingletonContainerImpl.cs" />
+    <Compile Include="Framework.Container\ISingletonContainer.cs" />
+    <Compile Include="Framework.Container\Util\RequestUtil.cs" />
+    <Compile Include="Framework.Exception\AppConfigException.cs" />
+    <Compile Include="Framework.Exception\AppException.cs" />
+    <Compile Include="Framework.Exception\AppParamException.cs" />
+    <Compile Include="Framework.Exception\ClassNotFoundException.cs" />
+    <Compile Include="Framework.Exception\ContainerInitException.cs" />
+    <Compile Include="Framework.Exception\DatabaseQueryException.cs" />
+    <Compile Include="Framework.Exception\EntityNotFoundException.cs" />
+    <Compile Include="Framework.Exception\FlowException.cs" />
+    <Compile Include="Framework.Exception\MethodNamingException.cs" />
+    <Compile Include="Framework.Exception\MethodReturnTypeException.cs" />
+    <Compile Include="Framework.Exception\NameNotFoundException.cs" />
+    <Compile Include="Framework.Exception\MessageFormatter.cs" />
+    <Compile Include="Framework.Exception\OrmException.cs" />
+    <Compile Include="Framework.Exception\ParameterFormatException.cs" />
+    <Compile Include="Framework.Exception\ReadAttributeException.cs" />
+    <Compile Include="Framework.Exception\SerializeException.cs" />
+    <Compile Include="Framework.Exception\SourceNotFoundException.cs" />
+    <Compile Include="Framework.Exception\SqlFileNotFoundException.cs" />
+    <Compile Include="Framework.Exception\SysException.cs" />
+    <Compile Include="Framework.ORM\DBInit.cs" />
+    <Compile Include="Framework.ORM\Util\DBUtil.cs" />
+    <Compile Include="Framework.Util\AppParam.cs" />
+    <Compile Include="Framework.Util\AppParamFormatter.cs" />
+    <Compile Include="Framework.Util\Param.cs" />
+    <Compile Include="Framework.Util\ParseXml.cs" />
+    <Compile Include="Framework.Util\ZipAppParam.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MessageCode.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MessageCode.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MessageCode.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MessageCode.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppLogicConfig.xml" />
+    <Content Include="ARConfig.xml" />
+    <Content Include="Common.xml" />
+    <Content Include="MessageCode.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetPath)" "../../../../lib"
+copy "$(TargetPath)" "../../../MedicalWebService/bin"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+﻿<MedicalSystem:MedicalSystemScreenBase x:Class="MedicalSystem.Pf.Sample.Form.Sample3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:MedicalSystem="clr-namespace:MedicalSystem.Pf.Common.ScreenTemplate;assembly=MedicalSystem.Pf.Common.ScreenTemplate"                     
+    Height="550" Width="791" Loaded="MedicalSystemScreenBase_Loaded">
+    <Grid Background="Transparent">
+        <Grid Background="Transparent">
+            <Label Height="30" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="121" Background="SteelBlue" Foreground="White"></Label>
+        </Grid>
+    </Grid>
+</MedicalSystem:MedicalSystemScreenBase>

@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\obj\Debug\MedicalSystem.Pf.Common.Entity.pdb

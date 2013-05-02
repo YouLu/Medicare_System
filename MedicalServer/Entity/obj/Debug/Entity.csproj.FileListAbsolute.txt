@@ -1,0 +1,14 @@
+E:\Final\MedicalServer\Entity\bin\Debug\Entity.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Entity.pdb
+E:\Final\MedicalServer\Entity\bin\Debug\Castle.ActiveRecord.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Medical.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Castle.Components.Validator.dll
+E:\Final\MedicalServer\Entity\bin\Debug\NHibernate.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Iesi.Collections.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Castle.Core.dll
+E:\Final\MedicalServer\Entity\bin\Debug\log4net.dll
+E:\Final\MedicalServer\Entity\bin\Debug\Castle.DynamicProxy.dll
+E:\Final\MedicalServer\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\MedicalServer\Entity\obj\Debug\Entity.dll
+E:\Final\MedicalServer\Entity\obj\Debug\Entity.pdb
+E:\Final\MedicalServer\Entity\bin\Debug\Medical.pdb

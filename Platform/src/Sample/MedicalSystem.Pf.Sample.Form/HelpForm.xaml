@@ -1,0 +1,9 @@
+﻿<MedicalSystem:MedicalSystemScreenBase x:Class="MedicalSystem.Pf.Sample.Form.HelpForm"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     xmlns:MedicalSystem="clr-namespace:MedicalSystem.Pf.Common.ScreenTemplate;assembly=MedicalSystem.Pf.Common.ScreenTemplate"                     
+    Height="449" Width="730" Loaded="MedicalSystemScreenBase_Loaded">
+    <Grid Background="LightPink">
+        <Label FontSize="40" Margin="126,175,127,180" Name="label1"></Label>
+    </Grid>
+</MedicalSystem:MedicalSystemScreenBase>

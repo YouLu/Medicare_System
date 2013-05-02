@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem.pf.Common.Event", "MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event.csproj", "{D20F5034-A841-406F-B266-581ECC01D6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem.Pf.Common.Entity", "..\Medical.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity\MedicalSystem.Pf.Common.Entity.csproj", "{28D90DED-0E1D-4553-8C37-87760EFFB0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20F5034-A841-406F-B266-581ECC01D6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20F5034-A841-406F-B266-581ECC01D6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20F5034-A841-406F-B266-581ECC01D6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20F5034-A841-406F-B266-581ECC01D6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D90DED-0E1D-4553-8C37-87760EFFB0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D90DED-0E1D-4553-8C37-87760EFFB0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D90DED-0E1D-4553-8C37-87760EFFB0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D90DED-0E1D-4553-8C37-87760EFFB0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

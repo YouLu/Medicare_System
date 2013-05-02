@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\Final\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\Final\Platform\src\Component\MedicalSystem.Pf.Component.Validation\bin\Debug\MedicalSystem.Pf.Component.Validation.pdb
+E:\Final\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.dll
+E:\Final\Platform\src\Component\MedicalSystem.Pf.Component.Validation\obj\Debug\MedicalSystem.Pf.Component.Validation.pdb

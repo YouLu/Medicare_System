@@ -1,0 +1,191 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Context.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample4.baml
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample4.g.cs
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll.licenses
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Entity.dll
+E:\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Proxy.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Entity.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Context.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Proxy.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.baml
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Entity.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Context.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Proxy.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\log4net.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Sample.Form.pdb
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Castle.ActiveRecord.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Entity.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Context.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.Proxy.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.MessageBox.Form.exe
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\MedicalSystem.Pf.UIControl.Form.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\log4net.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\bin\Debug\Entity.pdb
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\BloodDetail.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\HelpForm.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\LogonFunction.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ReservationsLogin.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample1.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample2.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\Sample3.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.cache
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form_MarkupCompile.lref
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\ReservationsLogin.baml
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.g.resources
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.Properties.Resources.resources
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.csproj.GenerateResource.Cache
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll.licenses
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.dll
+E:\Final\Platform\src\Sample\MedicalSystem.Pf.Sample.Form\obj\Debug\MedicalSystem.Pf.Sample.Form.pdb

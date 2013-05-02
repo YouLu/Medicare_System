@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Castle.ActiveRecord.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\bin\Debug\Castle.ActiveRecord.dll
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.dll
+E:\Final\Platform\src\Common\MedicalSystem.pf.Common.Event\MedicalSystem.pf.Common.Event\obj\Debug\MedicalSystem.pf.Common.Event.pdb

@@ -1,0 +1,49 @@
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.Entity.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.Entity.pdb
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+C:\Documents and Settings\Administrator\Desktop\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\log4net.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Castle.ActiveRecord.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Medical.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Castle.ActiveRecord.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\platform\MedicalSystemClientPlatform\MedicalSystemClientPlatform\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\Castle.ActiveRecord.dll
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.dll
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\bin\Debug\MedicalSystem.pf.Common.Event.pdb
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.dll
+E:\Final\Platform\src\Common\MedicalSystem.Pf.Common.ScreenTemplate\MedicalSystem.Pf.Common.ScreenTemplate\obj\Debug\MedicalSystem.Pf.Common.ScreenTemplate.pdb
